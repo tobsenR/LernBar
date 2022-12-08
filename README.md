@@ -9,3 +9,4 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/arcus/LIEA
 
 
 Bei normaler Ansicht "." drücken, dann DEV Ansicht
+zurück zur nomalen Ansicht "menu" links -> "gehe zu" -> "zu Repository wechseln"
